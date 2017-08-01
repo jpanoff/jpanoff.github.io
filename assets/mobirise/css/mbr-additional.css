@@ -10,6 +10,13 @@
   font-size: 23px;
 }
 #header1-f SPAN {
+<<<<<<< HEAD
+=======
+  color: #faaf40;
+  text-align: left;
+}
+#header1-g H1 {
+>>>>>>> 39f5b3e1ec72c27b7023c0aaed8db2808b351a6d
   color: #faaf40;
   text-align: left;
 }
@@ -39,7 +46,33 @@
   font-size: 21px;
   color: #ffffff;
 }
+<<<<<<< HEAD
 #social-buttons2-p .mbr-header__text {
+=======
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #fac51c;
+}
+#menu-2 .mbr-navbar__section {
+  background: #fac51c;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #cccccc;
+}
+#menu-2 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons2-k .mbr-header__text {
+  font-size: 23px;
+  color: #ffffff;
+}
+#contacts3-c B {
+  color: #ffffff;
+}
+#contacts3-c P {
+>>>>>>> 39f5b3e1ec72c27b7023c0aaed8db2808b351a6d
   color: #ffffff;
   font-size: 23px;
 }
