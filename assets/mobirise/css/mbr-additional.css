@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#header1-f H1 {
+  color: #f97352;
+  text-align: left;
+}
+#header1-f P {
+  text-align: left;
+  color: #ffffff;
+  font-size: 23px;
+}
+#header1-f SPAN {
+  color: #faaf40;
+  text-align: left;
+}
+#header1-g H1 {
+  color: #f97352;
+  text-align: left;
+}
+#header1-g P {
+  color: #ffffff;
+  font-size: 24px;
+  text-align: left;
+}
+#header1-g B {
+  color: #000000;
+}
+#header1-e H1 {
+  color: #faaf40;
+}
+#header1-e P {
+  color: #ffffff;
+}
+#header1-h H1 {
+  font-size: 46px;
+  color: #faaf40;
+}
+#header1-h P {
+  font-size: 21px;
+  color: #ffffff;
+}
+#social-buttons2-p .mbr-header__text {
+  color: #ffffff;
+  font-size: 23px;
+}
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f97352;
+}
+#menu-2 .mbr-navbar__section {
+  background: #f97352;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #cccccc;
+}
+#menu-2 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
