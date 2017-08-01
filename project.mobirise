@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -56,8 +56,8 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "right",
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -76,7 +76,7 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#faaf40",
+              "color": "#f97352",
               "text-align": "left"
             },
             "P": {
@@ -85,7 +85,7 @@
               "text-align": "left"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "header1-g",
@@ -100,15 +100,15 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "right",
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showArrow": true
           },
-          "title": "APA",
+          "title": "<span style=\"font-family: inherit;\">APA</span><br>",
           "text": "Uma cerveja dourada que vai conquistar o coração do Cacerense. Com ingredientes naturais e refrescantes, exótico sabor cítrico da toranja e um amargor que vai te surpreender. Uma boa pedida para reunir a galera e compartilhar este sabor.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>COMPRE</a> "
         },
@@ -138,8 +138,8 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "left",
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -179,7 +179,7 @@
             "bgVideoRadio": false,
             "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -189,6 +189,33 @@
           "title": "RENASCIMENTO",
           "text": "Nossa cervejaria é uma homenagem à lenda urbana do desaparecimento e reaparecimento do Anjo da Ventura. Que foi colocado na esquina entre as ruas Coronel José Dulce e Comandante Balduíno em 1871 e que alguns anos após a morte do proprietário da casa comercial José Dulce &amp; Cia em 1921, o Anjo de 150 kg desapareceu. Em 1998, após anos desaparecido ele voltou ao seu lugar de origem, dando continuidade a sua missão, bem aventurar o povo de Cáceres.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRECHO DA HISTÓRIA</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cerveja18-2000x1250.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "NOSSAS REDES SOCIAIS",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cervejaventura/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCNgNwy25rLgp_Wq5s-wiUVg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/bebidasventura/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_styles": {
@@ -249,36 +276,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "font-size": "23px",
-              "color": "#ffffff"
-            },
-            ".mbr-header__text SPAN": {
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "social-buttons2-k",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/malte-2000x2000.png",
-            "bgColor": "#f0f0f0",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000"
-          },
-          "text": "NOSSAS REDES SOCIAIS<br><span style=\"font-weight: normal;\">Todas nossas cervejas são puro malte</span>",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cervejaventura\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCNgNwy25rLgp_Wq5s-wiUVg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/bebidasventura/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-n",
           "_params": {
@@ -293,7 +290,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<span style=\"line-height: 1.5em;\">Telefone (65) 32233723; Endereço Rua dos Operários 335, Centro, Cáceres MT.</span><br>CNPJ&nbsp;27.742.026/0001-61 INSCRIÇÃO ESTADUAL&nbsp;13.685.552-0<br>"
+          "text": "<span style=\"line-height: 1.5em;\">Telefone (65) 32233723; Endereço Rua dos Operários 335, Centro, Cáceres MT.</span><br>CNPJ&nbsp;27.742.026/0001-61 Inscrição Estadual 13.685.552-0<br>"
         }
       ]
     },
