@@ -9,8 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 24,
-    "versionPublish": "3.12.1",
-    "publishFtpPath": "public_html"
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -180,7 +179,7 @@
             "showArrow": true
           },
           "title": "RENASCIMENTO",
-          "text": "Nossas cervejas são uma homenagem à lenda urbana do desaparecimento e reaparecimento do Anjo da Ventura. Que foi colocado na esquina entre as ruas Coronel José Dulce e Comandante Balduíno em 1871 e \u001bque alguns anos após a morte do proprietário da loja, em 1921, o Anjo de 300kg desapareceu. Em 1998, após anos desaparecido ele voltou ao seu lugar de origem, dando continuidade ao seu trabalho, bem aventurar o povo de Cáceres.<br>",
+          "text": "Nossa cervejaria é uma homenagem à lenda urbana do desaparecimento e reaparecimento do Anjo da Ventura. Que foi colocado na esquina entre as ruas Coronel José Dulce e Comandante Balduíno em 1871 e que alguns anos após a morte do proprietário da casa comercial José Dulce &amp; Cia em 1921, o Anjo de 150 kg desapareceu. Em 1998, após anos desaparecido ele voltou ao seu lugar de origem, dando continuidade a sua missão, bem aventurar o povo de Cáceres.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRECHO DA HISTÓRIA</a> "
         },
         {
