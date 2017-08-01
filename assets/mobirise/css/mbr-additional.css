@@ -2,26 +2,34 @@
 
 #header1-f H1 {
   color: #faaf40;
-  text-align: left;
+  text-align: right;
 }
 #header1-f P {
-  text-align: left;
-  color: #efefef;
+  text-align: right;
+  color: #ffffff;
   font-size: 23px;
+}
+#header1-f SPAN {
+  color: #faaf40;
+  text-align: left;
 }
 #header1-g H1 {
   color: #faaf40;
-  text-align: left;
+  text-align: right;
 }
 #header1-g P {
   color: #ffffff;
   font-size: 24px;
+  text-align: right;
 }
 #header1-g B {
   color: #ffffff;
 }
 #header1-e H1 {
   color: #faaf40;
+}
+#header1-e P {
+  color: #ffffff;
 }
 #header1-h H1 {
   font-size: 46px;
@@ -35,10 +43,10 @@
   font-size: 16px;
 }
 #menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #fac51c;
 }
 #menu-2 .mbr-navbar__section {
-  background: #000000;
+  background: #fac51c;
 }
 #menu-2 .mbr-navbar__hamburger {
   color: #cccccc;

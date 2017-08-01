@@ -32,19 +32,23 @@
           "_styles": {
             "H1": {
               "color": "#faaf40",
-              "text-align": "left"
+              "text-align": "right"
             },
             "P": {
-              "text-align": "left",
-              "color": "#efefef",
+              "text-align": "right",
+              "color": "#ffffff",
               "font-size": "23px"
+            },
+            "SPAN": {
+              "color": "#faaf40",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-f",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nonic-2-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/amber-mirror-2000x1332.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -60,9 +64,9 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "<br><br>AMBER ALE",
+          "title": "AMBER ALE",
           "text": "Uma cerveja ancestral, desenvolvida na época da proibição americana. Com sabor, aroma e amargor feitos sob medida, ideal para acompanhar a culinária e clima Cacerense. Seu malte cuidadosamente selecionado a torna mais encorpada e de cor âmbar; suas leves notas de biscoito e caramelo te convidam a abrir uma garrafa e se presentear esse sabor. <br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>COMPRE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>COMPRE</a> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -73,11 +77,12 @@
           "_styles": {
             "H1": {
               "color": "#faaf40",
-              "text-align": "left"
+              "text-align": "right"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "right"
             },
             "B": {
               "color": "#ffffff"
@@ -87,14 +92,14 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/apa-5-mirror-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/apa-7-2000x1250.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -105,7 +110,7 @@
           },
           "title": "APA",
           "text": "Uma cerveja dourada que vai conquistar o coração do Cacerense. Com ingredientes naturais e refrescantes, exótico sabor cítrico da toranja e um amargor que vai te surpreender. Uma boa pedida para reunir a galera e compartilhar este sabor.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMPRE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>COMPRE</a> "
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -116,6 +121,9 @@
           "_styles": {
             "H1": {
               "color": "#faaf40"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-e",
@@ -129,8 +137,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "right",
-            "overlay": true,
+            "contentAlign": "left",
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
@@ -188,10 +196,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
+              "background": "#fac51c"
             },
             ".mbr-navbar__section": {
-              "background": "#000000"
+              "background": "#fac51c"
             },
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
@@ -207,7 +215,7 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "color": "#000000",
+            "color": "#fac51c",
             "hamburgerColor": "#cccccc",
             "transparent": false,
             "sticky": true,
@@ -254,10 +262,10 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-beer-bottle-caps-piled-2000x1469.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/malte-2000x2000.png",
             "bgColor": "#f0f0f0",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#000000"
           },
