@@ -1,11 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 #header1-f H1 {
-  color: #faaf40;
-  text-align: right;
+  color: #f97352;
+  text-align: left;
 }
 #header1-f P {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
   font-size: 23px;
 }
@@ -15,12 +15,12 @@
 }
 #header1-g H1 {
   color: #faaf40;
-  text-align: right;
+  text-align: left;
 }
 #header1-g P {
   color: #ffffff;
   font-size: 24px;
-  text-align: right;
+  text-align: left;
 }
 #header1-g B {
   color: #ffffff;

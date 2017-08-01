@@ -31,11 +31,11 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#faaf40",
-              "text-align": "right"
+              "color": "#f97352",
+              "text-align": "left"
             },
             "P": {
-              "text-align": "right",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "23px"
             },
@@ -77,12 +77,12 @@
           "_styles": {
             "H1": {
               "color": "#faaf40",
-              "text-align": "right"
+              "text-align": "left"
             },
             "P": {
               "color": "#ffffff",
               "font-size": "24px",
-              "text-align": "right"
+              "text-align": "left"
             },
             "B": {
               "color": "#ffffff"
