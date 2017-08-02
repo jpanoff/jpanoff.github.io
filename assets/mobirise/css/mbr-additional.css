@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 #header1-f H1 {
-  color: #f97352;
+  color: #faaf40;
   text-align: left;
 }
 #header1-f P {
@@ -25,19 +25,18 @@
 #header1-g B {
   color: #000000;
 }
+#header1-g SPAN {
+  color: #faaf40;
+}
 #header1-e H1 {
   color: #faaf40;
 }
 #header1-e P {
   color: #ffffff;
 }
-#header1-h H1 {
-  font-size: 46px;
+#header1-12 H1 {
+  font-size: 30px;
   color: #faaf40;
-}
-#header1-h P {
-  font-size: 21px;
-  color: #ffffff;
 }
 #social-buttons2-p .mbr-header__text {
   color: #ffffff;
@@ -47,10 +46,10 @@
   font-size: 16px;
 }
 #menu-2.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-2 .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-2 .mbr-navbar__hamburger {
   color: #cccccc;
@@ -63,10 +62,10 @@
   font-size: 16px;
 }
 #menu-q.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-q .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-q .mbr-navbar__hamburger {
   color: #cccccc;
@@ -82,10 +81,10 @@
   font-size: 16px;
 }
 #menu-t.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-t .mbr-navbar__section {
-  background: #f97352;
+  background: #7c706b;
 }
 #menu-t .mbr-navbar__hamburger {
   color: #cccccc;

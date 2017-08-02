@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -31,7 +31,7 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#f97352",
+              "color": "#faaf40",
               "text-align": "left"
             },
             "P": {
@@ -48,7 +48,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/amber-mirror-2000x1332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/linda-igual-a-mim-mais-nao-tanto-2000x1334.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -86,6 +86,9 @@
             },
             "B": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#faaf40"
             }
           },
           "_anchor": "header1-g",
@@ -99,9 +102,9 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "right",
+            "contentAlign": "left",
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
@@ -147,7 +150,7 @@
             "showArrow": true
           },
           "title": "Um brinde a você",
-          "text": "O calor humano e os fortes vínculos de amizade que <br>temos uns com os outros, transcende nossas gerações.<br>A hospitalidade e o prazer que temos em receber bem <br>as pessoas são algumas das qualidades que nos destacam como cacerense. <br>Brinde a felicidade, brinde a vida brinde com Ventura.<br>",
+          "text": "O calor humano e os fortes vínculos de amizade que <br>temos uns com os outros, transcende nossas gerações.<br>A hospitalidade e o prazer que temos em receber bem <br>as pessoas são algumas das qualidades que nos destacam como cacerense.<br><br>Brinde a felicidade, brinde a vida brinde com Ventura.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"eventos.html\" data-toolbar=\"-mbrBtnMove\">CONTRATE-NOS</a> "
         },
         {
@@ -156,21 +159,11 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            "H1": {
-              "font-size": "46px",
-              "color": "#faaf40"
-            },
-            "P": {
-              "font-size": "21px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header1-h",
+          "_anchor": "header1-12",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2326-1-2000x1705.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2326-recortada-2000x1805.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -187,8 +180,14 @@
             "showArrow": true
           },
           "title": "RENASCIMENTO",
-          "text": "Nossa cervejaria é uma homenagem à lenda urbana do desaparecimento e reaparecimento do Anjo da Ventura. Que foi colocado na esquina entre as ruas Coronel José Dulce e Comandante Balduíno em 1871 e que alguns anos após a morte do proprietário da casa comercial José Dulce &amp; Cia em 1921, o Anjo de 150 kg desapareceu. Em 1998, após anos desaparecido ele voltou ao seu lugar de origem, dando continuidade a sua missão, bem aventurar o povo de Cáceres.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"historia.html\" data-toolbar=\"-mbrBtnMove\">TRECHO DA HISTÓRIA</a> "
+          "text": "Nossa cervejaria é uma homenagem à lenda urbana do desaparecimento e reaparecimento do Anjo da Ventura. Que foi colocado na esquina entre as ruas Coronel José Dulce e Comandante Balduíno em 1871 e que alguns anos após a morte do proprietário da casa comercial, em 1921, o Anjo de 150 kg desapareceu. Em 1998, após anos desaparecido ele voltou ao seu lugar de origem, dando continuidade a sua missão, bem aventurar o povo de Cáceres.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"historia.html\" data-toolbar=\"-mbrBtnMove\">LEIA MAIS</a> ",
+          "_styles": {
+            "H1": {
+              "font-size": "30px",
+              "color": "#faaf40"
+            }
+          }
         },
         {
           "_tags": [
@@ -223,10 +222,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
@@ -242,7 +241,7 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "color": "#f97352",
+            "color": "#7c706b",
             "hamburgerColor": "#cccccc",
             "transparent": false,
             "sticky": true,
@@ -310,10 +309,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
@@ -329,7 +328,7 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "color": "#f97352",
+            "color": "#7c706b",
             "hamburgerColor": "#cccccc",
             "transparent": false,
             "sticky": true,
@@ -447,10 +446,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__section": {
-              "background": "#f97352"
+              "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
               "color": "#cccccc"
@@ -466,7 +465,7 @@
           "_name": "menu",
           "_anchor": "menu-t",
           "_params": {
-            "color": "#f97352",
+            "color": "#7c706b",
             "hamburgerColor": "#cccccc",
             "transparent": false,
             "sticky": true,
