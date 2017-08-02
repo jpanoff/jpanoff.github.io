@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 #header1-f H1 {
   color: #faaf40;
@@ -91,4 +92,37 @@
 }
 #menu-t .mbr-navbar__items a {
   font-family: 'Oswald', sans-serif;
+}
+
+
+
+#menu-16 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #7c706b;
+}
+#menu-16 .mbr-navbar__section {
+  background: #7c706b;
+}
+#menu-16 .mbr-navbar__hamburger {
+  color: #cccccc;
+}
+#menu-16 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box2-1a .mbr-header .mbr-header__text {
+  color: #252525;
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box2-1a .mbr-article {
+  color: #252525;
+}
+#features1-18 .mbr-section__col .mbr-header__text {
+  font-size: 36px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#features1-18 .btn {
+  font-size: 20px;
 }
