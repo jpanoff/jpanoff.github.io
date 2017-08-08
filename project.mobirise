@@ -56,7 +56,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cortina-vermenlha-site-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cortina-vermelha-site-alta-2000x1328.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
